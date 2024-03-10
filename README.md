@@ -1,6 +1,6 @@
-### Extending Offers on Limits of Credit Card to Account Holders
+## Extending Offers on Limits of Credit Card to Account Holders
 
-#    This project mainly deals with the Backend of Credit card System for extending offers on limits of Credit Card to the Account Holders.
+###    This project mainly deals with the Backend of Credit card System for extending offers on limits of Credit Card to the Account Holders.
 
        There is a home controller which will receive all the user HTTP requests.
        Once the Controller receives the request, it sends to either Account Service for Account related requests or it will send to OfferService for Limit Offers related requests.
